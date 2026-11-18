@@ -1,0 +1,6 @@
+q 2
+head A
+heads 2
+A B NULL
+B NULL C
+calls 4

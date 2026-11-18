@@ -1,0 +1,12 @@
+N 20
+K 4
+fill .
+requests 8
++ p PPPP
++ a ABCD
++ b wxyz
+- p
+* a 123
++ c ZZ
+- missing
+* b !

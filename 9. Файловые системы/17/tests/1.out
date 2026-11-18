@@ -1,0 +1,16 @@
+returns
+0
+0
+0
+0
+0
+0
+ENOFILE
+0
+files
+0 c 12 2 ZZ
+1 a 0 7 ABCD123
+2 b 7 5 wxyz!
+3 FREE
+memory
+ABCD123wxyz!ZZ......

@@ -1,0 +1,6 @@
+q 3
+head A
+heads 2
+A B C D
+B NULL E NULL
+calls 6

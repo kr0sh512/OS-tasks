@@ -1,0 +1,6 @@
+1 return=C head=A
+2 return=D head=A
+3 return=A head=B
+4 return=E head=B
+5 return=B head=NULL
+6 return=NULL head=NULL

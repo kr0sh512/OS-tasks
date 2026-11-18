@@ -1,0 +1,14 @@
+N 12
+K 3
+fill .
+requests 10
++ x abcde
++ y FGHI
+* x xyz
++ z 1234
+- y
+* x XYZ
++ z 12
++ q ABC
+- z
+* x 12345
